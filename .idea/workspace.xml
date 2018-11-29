@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="088abf4d-cffc-41c7-a3ca-fce279cad609" name="Default" comment="" />
+    <list default="true" id="088abf4d-cffc-41c7-a3ca-fce279cad609" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/smddzcy/server/SocketHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="217">
-              <caret line="128" column="44" lean-forward="true" selection-start-line="128" selection-start-column="44" selection-end-line="129" selection-end-column="65" />
+              <caret line="128" column="44" lean-forward="false" selection-start-line="128" selection-start-column="44" selection-end-line="129" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#539#540#0" expanded="true" />
@@ -102,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DB.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DB.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/smddzcy/server/DB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="257" column="19" lean-forward="true" selection-start-line="257" selection-start-column="19" selection-end-line="257" selection-end-column="19" />
+            <state relative-caret-position="3071">
+              <caret line="234" column="44" lean-forward="false" selection-start-line="234" selection-start-column="44" selection-end-line="234" selection-end-column="44" />
               <folding>
                 <element signature="e#2055#2056#0" expanded="true" />
                 <element signature="e#2082#2083#0" expanded="true" />
@@ -180,22 +183,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/smddzcy/server/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            <state relative-caret-position="-196">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#355#388#1" expanded="true" />
-                <element signature="e#397#782#0" expanded="true" />
-                <element signature="e#397#782#0" expanded="true" />
-                <element signature="e#569#772#0" expanded="true" />
-                <element signature="e#569#772#0" expanded="true" />
                 <element signature="e#804#830#0" expanded="true" />
-                <element signature="e#1286#1349#0" expanded="true" />
                 <element signature="e#1335#1349#0" expanded="true" />
-                <element signature="e#1286#1349#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -212,7 +208,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>addUser</find>
       <find>senid me</find>
       <find>sending m</find>
       <find>toJSO</find>
@@ -242,6 +237,7 @@
       <find>Object:</find>
       <find>update</find>
       <find>s</find>
+      <find>63012</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -453,8 +449,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -607,15 +603,16 @@
       <option name="presentableId" value="Default" />
       <updated>1543330817346</updated>
       <workItem from="1543330821289" duration="12180000" />
-      <workItem from="1543437461278" duration="8743000" />
+      <workItem from="1543437461278" duration="8935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20923000" />
+    <option name="totallyTimeSpent" value="21115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1007" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -631,7 +628,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20414507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20414507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -888,7 +885,7 @@
         <state relative-caret-position="333">
           <caret line="108" column="22" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
           <folding>
-            <element signature="e#3540#3541#0" expanded="true" />
+            <element signature="e#3540#3541#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -925,25 +922,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/smddzcy/server/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#355#388#1" expanded="true" />
-            <element signature="e#397#782#0" expanded="true" />
-            <element signature="e#397#782#0" expanded="true" />
-            <element signature="e#569#772#0" expanded="true" />
-            <element signature="e#569#772#0" expanded="true" />
-            <element signature="e#804#830#0" expanded="true" />
-            <element signature="e#1286#1349#0" expanded="true" />
-            <element signature="e#1335#1349#0" expanded="true" />
-            <element signature="e#1286#1349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ideaLibSources/gson-2.8.5-sources.jar!/com/google/gson/Gson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-614">
@@ -971,7 +949,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/smddzcy/server/SocketHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
-          <caret line="128" column="44" lean-forward="true" selection-start-line="128" selection-start-column="44" selection-end-line="129" selection-end-column="65" />
+          <caret line="128" column="44" lean-forward="false" selection-start-line="128" selection-start-column="44" selection-end-line="129" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#539#540#0" expanded="true" />
@@ -1053,8 +1031,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/smddzcy/server/DB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="257" column="19" lean-forward="true" selection-start-line="257" selection-start-column="19" selection-end-line="257" selection-end-column="19" />
+        <state relative-caret-position="3071">
+          <caret line="234" column="44" lean-forward="false" selection-start-line="234" selection-start-column="44" selection-end-line="234" selection-end-column="44" />
           <folding>
             <element signature="e#2055#2056#0" expanded="true" />
             <element signature="e#2082#2083#0" expanded="true" />
@@ -1113,6 +1091,18 @@
             <element signature="e#7494#7513#0" expanded="true" />
             <element signature="e#7637#7696#1" expanded="true" />
             <element signature="e#7705#7724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/smddzcy/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#355#388#1" expanded="true" />
+            <element signature="e#804#830#0" expanded="true" />
+            <element signature="e#1335#1349#0" expanded="true" />
           </folding>
         </state>
       </provider>
